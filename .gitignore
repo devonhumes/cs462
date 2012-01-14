@@ -1,0 +1,4 @@
+# WSGI Config files #
+#####################
+
+*.wsgi
